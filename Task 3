@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Source and destination folders
-source_folder = "source_foldee"
+source_folder = "source_folder"
 destination_folder = "jpg_images"
 
 # Create destination folder if not exists
